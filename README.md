@@ -1,2 +1,1 @@
 # clog
-Clear logs
