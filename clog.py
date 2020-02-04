@@ -4,7 +4,7 @@ import subprocess
 import datetime
 import filecmp
 
-dir = "/home/poogas/j"
+dir = "/poogas"
 
 fname = os.listdir(dir)
 
