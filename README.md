@@ -1,0 +1,2 @@
+# clog
+Clear logs
